@@ -49,12 +49,14 @@ View the PCB in 3D to check component placement and routing.
 <br>
 <img width="542" height="161" alt="image" src="https://github.com/user-attachments/assets/4755e5a6-91d8-4738-b6cc-6a106b6f5413" />
 <br>
+<br>
 <img width="463" height="112" alt="image" src="https://github.com/user-attachments/assets/604be193-a540-438b-a4e6-1c4437efcd46" />
 <br>
 
 ### Part 8: Gerber File Generation
 
 Generate manufacturing files (Gerber) for PCB fabrication.
+<br>
 <br>
 <img width="614" height="415" alt="image" src="https://github.com/user-attachments/assets/76eed4a1-a561-49ff-b93e-f6e182b6ce4d" />
 <br>
